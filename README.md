@@ -1,0 +1,1 @@
+This is a simple React application that displays a product card using multiple reusable components. It's part of a React learning checkpoint and was built with a focus on component structuring, props usage, and basic styling using pure CSS.
